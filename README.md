@@ -116,18 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name](https://www.linkedin.com/in/yourprofile)  
-🎓 Computer Engineering Student | Android Developer | Firebase Enthusiast
 
----
-
-## 📣 Let's Connect!
-
-If you liked this project or found it helpful, consider ⭐ starring the repo and connecting on:
-
-- 🔗 LinkedIn : https://www.linkedin.com/in/vinayak-umesh-kundar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📬 Email: vinayak.kundar.official@gmail.com
 
 
