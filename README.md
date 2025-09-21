@@ -87,11 +87,6 @@ To run this app:
 ## 🛠️ How to Run
 
 1. Clone the repo:
-```
-
-git clone https://github.com/vinayak1497/BitsNByte-New.git
-
-```
 2. Open in Android Studio
 3. Add your Firebase `google-services.json` file
 4. Sync Gradle
